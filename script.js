@@ -48,7 +48,7 @@ black.onclick = () => {
 }
 
 purple.onmouseenter = () => {
-    span = "-Purple"
+    span = "- Purple"
 }
 gold.onmouseenter = () => {
     span = ' - Gold'
